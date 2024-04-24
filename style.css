@@ -1,0 +1,23 @@
+* {
+    /* overflow-x: hidden; */
+    box-sizing: border-box !important;
+}
+
+#main {
+    background: #F9F9F9 !important;
+}
+
+.background {
+    background-color: #75BF7A !important;
+}
+
+span,
+h6 {
+    color: #75BF7A !important;
+}
+
+.n_1 {
+    position: relative;
+    bottom: 530px;
+    right: 20px;
+}
